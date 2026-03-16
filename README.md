@@ -5,8 +5,6 @@
 This project is a simple backend application written in **Go** that provides a REST API for managing users.  
 It demonstrates how to build a basic CRUD service using **Gin**, **GORM**, and **PostgreSQL**, with **Docker** used to run the database.
 
-The project is intended as a learning and portfolio example for backend development.
-
 ---
 
 ## 🧩 Core Components
